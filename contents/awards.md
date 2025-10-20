@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #### 奖项与荣誉
 
 - **第20届全国大学生智能汽车竞赛 全国一等奖**（2025.05—2025.07）  
@@ -31,21 +31,4 @@
 - **上海人工智能实验室「书生大模型沐曦魔乐专场既论文分类微调赛事」**
   获得二等奖及奖金1000元（2025.07）  
   
-=======
 
-- Outstanding Graduate Award (CUMT), 2025.
-
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
-
-- First-Prize Graduate Academic Scholarship (CUMT), 2024.
-
-- First-Prize Graduate Academic Scholarship (CUMT), 2023.
-
-- Freshman Scholarship (CUMT), 2022.
-
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
->>>>>>> 5574a033ba7a136aa4b74208d49cade537fe0ad3
