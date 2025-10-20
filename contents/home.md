@@ -1,17 +1,14 @@
 
+[![wenjiejiang0312](https://img.shields.io/badge/wenjiejiang0312-github-blue?logo=github)](https://github.com/wenjiejiang0312)
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+姜文杰，目前就读于 **宿迁学院信息工程学院软件工程专业**（2023—2027）。  
+主要研究方向为 **人工智能** 与 **具身智能模仿学习**，聚焦于 **机器人操作**、**扩散策略（Diffusion Policy）** 与 **智能控制系统** 的研究与实践。
 
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+#### 联系方式
+邮箱：19895525510@163.com
 
-#### Contact
+#### 教育背景
+学士学位（在读），软件工程专业，宿迁学院信息工程学院，2023—2027。
 
-Email: senli[at]fas.harvard.edu
-
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
-
-#### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+#### 研究方向
+人工智能、具身智能、模仿学习、扩散模型、机器人操作。

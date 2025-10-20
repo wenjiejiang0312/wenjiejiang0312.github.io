@@ -1,16 +1,32 @@
+#### 奖项与荣誉
 
-- Outstanding Graduate Award (CUMT), 2025.
+- **第20届全国大学生智能汽车竞赛 全国一等奖**（2025.05—2025.07）  
+  负责视觉算法设计，以及车与无人机之间的图像与数据交互模块开发。
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- **睿抗机器人开发者大赛 全国一等奖**（2024.04—2025.08）  
+  负责整车的 ROS 控制、目标检测算法的部署与调优，以及机械臂运动规划与控制。
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2024.
+- **第19届全国大学生智能汽车竞赛 全国二等奖**（2024.05—2024.07）  
+  负责视觉算法与车-无人机图像数据交互模块。
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023.
+- **中国高校智能机器人创意大赛 全国三等奖**（2024.04—2025.08）  
+  负责机器人 PID 控制与视觉图像处理。
 
-- Freshman Scholarship (CUMT), 2022.
+- **睿抗机器人开发者大赛 江苏省一等奖**（2024.04—2025.08）  
+  负责整车的 ROS 控制、目标检测算法的部署与调优、机械臂运动规划与控制。
 
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
+- **第20届全国大学生智能汽车竞赛 区域赛二等奖**（2025.05—2025.07）  
+  负责视觉算法与无人机图像数据交互模块。
 
-- First-Prize Corporate Scholarship (CUMT), 2020.
+- **第19届全国大学生智能汽车竞赛 区域赛二等奖**（2024.05—2024.07）  
+  负责视觉算法与无人机图像数据交互模块。
 
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- **中国高校智能机器人创意大赛 江苏省二等奖**（2024.04—2025.08）  
+  负责机器人 PID 控制与视觉图像处理。
+
+- **上海人工智能实验室「书生大模型实战营」结业学员**（2024.09—2024.10）  
+  学员，参与大语言模型本地化部署与 XTuner 微调训练，并将学习成果公开于 GitHub。
+
+- **上海人工智能实验室「书生大模型沐曦魔乐专场既论文分类微调赛事」**
+  获得二等奖及奖金1000元（2025.07）  
+  
