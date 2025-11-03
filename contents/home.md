@@ -1,8 +1,8 @@
 
 [![wenjiejiang0312](https://img.shields.io/badge/wenjiejiang0312-github-blue?logo=github)](https://github.com/wenjiejiang0312)
 
-姜文杰，目前就读于 **宿迁学院信息工程学院软件工程专业**（2023—2027）。  
-主要研究方向为 **人工智能** 与 **具身智能模仿学习**，聚焦于 **机器人操作**、**扩散策略（Diffusion Policy）** 与 **智能控制系统** 的研究与实践。
+姜文杰，目前就读于宿迁学院信息工程学院软件工程专业（2023—2027）。  
+主要研究方向为人工智能与具身智能模仿学习，聚焦于机器人操作、扩散策略（Diffusion Policy）与智能控制系统的研究与实践。
 
 #### 联系方式
 邮箱：19895525510@163.com
